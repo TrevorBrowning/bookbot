@@ -1,2 +1,6 @@
 /books
 /reports
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
